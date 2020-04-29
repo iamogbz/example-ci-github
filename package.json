@@ -1,0 +1,21 @@
+{
+  "name": "github-test",
+  "version": "0.0.0",
+  "description": "Test repository",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamogbz/github-test.git"
+  },
+  "author": "iamogbz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamogbz/github-test/issues"
+  },
+  "homepage": "https://github.com/iamogbz/github-test#readme"
+}

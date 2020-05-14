@@ -1,3 +1,3 @@
-const envCI = require("env-ci");
+const envCI = require("ci-env");
 
-console.log(envCI());
+console.log(envCI);
